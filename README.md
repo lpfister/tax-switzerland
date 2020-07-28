@@ -1,4 +1,4 @@
 # tax-switzerland
 Dynamic map of taxation of commune in canton of Vaud
 
-[Map is accessible here](https://github.com/lpfister/tax-switzerland)
+[Map is accessible here](https://lpfister.github.io/tax-switzerland/)
