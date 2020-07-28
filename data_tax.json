@@ -1,0 +1,1502 @@
+[
+	{
+		"code": "Aclens",
+		"value": " 62.0",
+		"": ""
+	},
+	{
+		"code": "Agiez",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Aigle",
+		"value": " 67.5",
+		"": ""
+	},
+	{
+		"code": "Allaman",
+		"value": " 62.0",
+		"": ""
+	},
+	{
+		"code": "Apples",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Arnex-sur-Nyon",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Arnex-sur-Orbe",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Arzier-Le Muids",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Assens",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Aubonne",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Avenches",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Ballaigues",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Ballens",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Bassins",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Baulmes",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Bavois",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Begnins",
+		"value": " 67.0",
+		"": ""
+	},
+	{
+		"code": "Belmont-sur-Lausanne",
+		"value": " 69.5",
+		"": ""
+	},
+	{
+		"code": "Belmont-sur-Yverdon",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Bercher",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Berolle",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Bettens",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Bex",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Biere",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Bioley-Magnoux",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Bioley-Orjulaz",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Blonay",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Bofflens",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Bogis-Bossey",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Bonvillars",
+		"value": " 55.0",
+		"": ""
+	},
+	{
+		"code": "Borex",
+		"value": " 58.0",
+		"": ""
+	},
+	{
+		"code": "Bottens",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Bougy-Villars",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Boulens",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Bourg-en-Lavaux",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Bournens",
+		"value": " 80.0",
+		"": ""
+	},
+	{
+		"code": "Boussens",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Bremblens",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Bretigny-sur-Morrens",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Bretonnieres",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Buchillon",
+		"value": " 53.0",
+		"": ""
+	},
+	{
+		"code": "Bullet",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Bursinel",
+		"value": " 65.5",
+		"": ""
+	},
+	{
+		"code": "Bursins",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Burtigny",
+		"value": " 80.0",
+		"": ""
+	},
+	{
+		"code": "Bussigny",
+		"value": " 62.0",
+		"": ""
+	},
+	{
+		"code": "Bussy-Chardonney",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Bussy-sur-Moudon",
+		"value": " 80.0",
+		"": ""
+	},
+	{
+		"code": "Chamblon",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Champagne",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "Champtauroz",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Champvent",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Chardonne",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Chateau-d'Oex",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Chavannes-de-Bogis",
+		"value": " 59.0",
+		"": ""
+	},
+	{
+		"code": "Chavannes-des-Bois",
+		"value": " 59.0",
+		"": ""
+	},
+	{
+		"code": "Chavannes-le-Chene",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Chavannes-le-Veyron",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Chavannes-pres-Renens",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Chavannes-sur-Moudon",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Chavornay",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Chene-Paquier",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Cheseaux-Noreaz",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Cheseaux-sur-Lausanne",
+		"value": " 74.5",
+		"": ""
+	},
+	{
+		"code": "Cheserex",
+		"value": " 57.0",
+		"": ""
+	},
+	{
+		"code": "Chessel",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Chevilly",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Chevroux",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Chexbres",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Chigny",
+		"value": " 62.0",
+		"": ""
+	},
+	{
+		"code": "Clarmont",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Coinsins",
+		"value": " 51.0",
+		"": ""
+	},
+	{
+		"code": "Commugny",
+		"value": " 57.0",
+		"": ""
+	},
+	{
+		"code": "Concise",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Coppet",
+		"value": " 53.0",
+		"": ""
+	},
+	{
+		"code": "Corbeyrier",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Corcelles-le-Jorat",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Corcelles-pres-Concise",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Corcelles-pres-Payerne",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Corseaux",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Corsier-sur-Vevey",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Cossonay",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Cottens (Vaud)",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Crans-pres-Celigny",
+		"value": " 53.0",
+		"": ""
+	},
+	{
+		"code": "Crassier",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Crissier",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "Cronay",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Croy",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Cuarnens",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Cuarny",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Cudrefin",
+		"value": " 59.0",
+		"": ""
+	},
+	{
+		"code": "Cugy (Vaud)",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Curtilles",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Daillens",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Demoret",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Denens",
+		"value": " 70.0"
+	},
+	{
+		"code": "Denges",
+		"value": " 62.0"
+	},
+	{
+		"code": "Dizy",
+		"value": " 79.0"
+	},
+	{
+		"code": "Dompierre (Vaud)",
+		"value": " 80.0"
+	},
+	{
+		"code": "Donneloye",
+		"value": " 73.0"
+	},
+	{
+		"code": "Duillier",
+		"value": " 66.0"
+	},
+	{
+		"code": "Dully",
+		"value": " 49.0"
+	},
+	{
+		"code": "Echallens",
+		"value": " 74.0"
+	},
+	{
+		"code": "Echandens",
+		"value": " 62.0"
+	},
+	{
+		"code": "Echichens",
+		"value": " 68.0"
+	},
+	{
+		"code": "Eclepens",
+		"value": " 46.0"
+	},
+	{
+		"code": "Ecublens (Vaud)",
+		"value": " 62.0"
+	},
+	{
+		"code": "Epalinges",
+		"value": " 66.0"
+	},
+	{
+		"code": "Ependes (Vaud)",
+		"value": " 75.0"
+	},
+	{
+		"code": "Essertes",
+		"value": " 72.0"
+	},
+	{
+		"code": "Essertines-sur-Rolle",
+		"value": " 68.0"
+	},
+	{
+		"code": "Essertines-sur-Yverdon",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Etagnieres",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Etoy",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Eysins",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Faoug",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Fechy",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Ferreyres",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Fey",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Fiez",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Fontaines-sur-Grandson",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Forel (Lavaux)",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Founex",
+		"value": " 57.0",
+		"": ""
+	},
+	{
+		"code": "Froideville",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Genolier",
+		"value": " 55.0",
+		"": ""
+	},
+	{
+		"code": "Giez",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Gilly",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Gimel",
+		"value": " 71.5",
+		"": ""
+	},
+	{
+		"code": "Gingins",
+		"value": " 57.0",
+		"": ""
+	},
+	{
+		"code": "Givrins",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Gland",
+		"value": " 62.5",
+		"": ""
+	},
+	{
+		"code": "Gollion",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Goumoens",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Grancy",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Grandcour",
+		"value": " 79.5",
+		"": ""
+	},
+	{
+		"code": "Grandevent",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Grandson",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Grens",
+		"value": " 62.0",
+		"": ""
+	},
+	{
+		"code": "Gryon",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Henniez",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Hermenches",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Jongny",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Jorat-Menthue",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Jorat-Mezieres",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Jouxtens-Mezery",
+		"value": " 53.0",
+		"": ""
+	},
+	{
+		"code": "Juriens",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "L'Abbaye",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "L'Abergement",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "L'Isle",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "La Chaux (Cossonay)",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "La Praz",
+		"value": " 83.0",
+		"": ""
+	},
+	{
+		"code": "La Rippe",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "La Sarraz",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "La Tour-de-Peilz",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Lausanne",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Lavey-Morcles",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Lavigny",
+		"value": " 74.5",
+		"": ""
+	},
+	{
+		"code": "Le Chenit",
+		"value": " 60.0",
+		"": ""
+	},
+	{
+		"code": "Le Lieu",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "Le Mont-sur-Lausanne",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Le Vaud",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Les Clees",
+		"value": " 80.0",
+		"": ""
+	},
+	{
+		"code": "Leysin",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Lignerolle",
+		"value": " 80.0",
+		"": ""
+	},
+	{
+		"code": "Lonay",
+		"value": " 55.0",
+		"": ""
+	},
+	{
+		"code": "Longirod",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Lovatens",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Lucens",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Luins",
+		"value": " 60.0",
+		"": ""
+	},
+	{
+		"code": "Lully (Vaud)",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Lussery-Villars",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Lussy-sur-Morges",
+		"value": " 66.0",
+		"": ""
+	},
+	{
+		"code": "Lutry",
+		"value": " 55.5",
+		"": ""
+	},
+	{
+		"code": "Maracon",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Marchissy",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Mathod",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Mauborget",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Mauraz",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Mex (Vaud)",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Mies",
+		"value": " 49.0",
+		"": ""
+	},
+	{
+		"code": "Missy",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Moiry",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Mollens (Vaud)",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Molondin",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Mont-la-Ville",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Mont-sur-Rolle",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Montagny-pres-Yverdon",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Montanaire",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Montcherand",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Montherod",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Montilliez",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Montpreveyres",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Montreux",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "Montricher",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Morges",
+		"value": " 68.5",
+		"": ""
+	},
+	{
+		"code": "Morrens (Vaud)",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Moudon",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Mutrux",
+		"value": " 78.5",
+		"": ""
+	},
+	{
+		"code": "Novalles",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Noville",
+		"value": " 78.5",
+		"": ""
+	},
+	{
+		"code": "Nyon",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Ogens",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Ollon",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Onnens (Vaud)",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "Oppens",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Orbe",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Orges",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Ormont-Dessous",
+		"value": " 78.5"
+	},
+	{
+		"code": "Ormont-Dessus",
+		"value": " 76.0"
+	},
+	{
+		"code": "Orny",
+		"value": " 73.0"
+	},
+	{
+		"code": "Oron",
+		"value": " 69.0"
+	},
+	{
+		"code": "Orzens",
+		"value": " 79.0"
+	},
+	{
+		"code": "Oulens-sous-Echallens",
+		"value": " 71.0"
+	},
+	{
+		"code": "Pailly",
+		"value": " 77.5"
+	},
+	{
+		"code": "Pampigny",
+		"value": " 75.0"
+	},
+	{
+		"code": "Paudex",
+		"value": " 61.5"
+	},
+	{
+		"code": "Payerne",
+		"value": " 75.0"
+	},
+	{
+		"code": "Penthalaz",
+		"value": " 74.0"
+	},
+	{
+		"code": "Penthaz",
+		"value": " 71.0"
+	},
+	{
+		"code": "Penthereaz",
+		"value": " 78.0"
+	},
+	{
+		"code": "Perroy",
+		"value": " 60.0"
+	},
+	{
+		"code": "Poliez-Pittet",
+		"value": " 71.0"
+	},
+	{
+		"code": "Pompaples",
+		"value": " 66.0"
+	},
+	{
+		"code": "Pomy",
+		"value": " 71.0",
+		"": ""
+	},
+	{
+		"code": "Prangins",
+		"value": " 56.0",
+		"": ""
+	},
+	{
+		"code": "Premier",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Preverenges",
+		"value": " 64.0",
+		"": ""
+	},
+	{
+		"code": "Prevonloup",
+		"value": " 74.0",
+		"": ""
+	},
+	{
+		"code": "Prilly",
+		"value": " 73.5",
+		"": ""
+	},
+	{
+		"code": "Provence",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Puidoux",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Pully",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Rances",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Renens (Vaud)",
+		"value": " 78.5",
+		"": ""
+	},
+	{
+		"code": "Rennaz",
+		"value": " 67.5",
+		"": ""
+	},
+	{
+		"code": "Reverolle",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Rivaz",
+		"value": " 63.5",
+		"": ""
+	},
+	{
+		"code": "Roche (Vaud)",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Rolle",
+		"value": " 59.5",
+		"": ""
+	},
+	{
+		"code": "Romainmotier-Envy",
+		"value": " 81.0"
+	},
+	{
+		"code": "Romanel-sur-Lausanne",
+		"value": " 70.0"
+	},
+	{
+		"code": "Romanel-sur-Morges",
+		"value": " 56.0"
+	},
+	{
+		"code": "Ropraz",
+		"value": " 77.5"
+	},
+	{
+		"code": "Rossenges",
+		"value": " 60.0"
+	},
+	{
+		"code": "Rossiniere",
+		"value": " 81.0"
+	},
+	{
+		"code": "Rougemont",
+		"value": " 74.0"
+	},
+	{
+		"code": "Rovray",
+		"value": " 73.0"
+	},
+	{
+		"code": "Rueyres",
+		"value": " 73.0"
+	},
+	{
+		"code": "Saint-Barthelemy (Vaud)",
+		"value": " 77.0"
+	},
+	{
+		"code": "Saint-Cergue",
+		"value": " 66.0"
+	},
+	{
+		"code": "Saint-George",
+		"value": " 71.0"
+	},
+	{
+		"code": "Saint-Legier-La Chiesaz",
+		"value": " 67.0"
+	},
+	{
+		"code": "Saint-Livres",
+		"value": " 69.0"
+	},
+	{
+		"code": "Saint-Oyens",
+		"value": " 81.0"
+	},
+	{
+		"code": "Saint-Prex",
+		"value": " 55.0"
+	},
+	{
+		"code": "Saint-Saphorin (Lavaux)",
+		"value": " 67.0",
+		"": ""
+	},
+	{
+		"code": "Saint-Sulpice (Vaud)",
+		"value": " 55.0",
+		"": ""
+	},
+	{
+		"code": "Sainte-Croix",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Saubraz",
+		"value": " 80.0",
+		"": ""
+	},
+	{
+		"code": "Savigny",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Senarclens",
+		"value": " 68.5",
+		"": ""
+	},
+	{
+		"code": "Sergey",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Servion",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Severy",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Signy-Avenex",
+		"value": " 58.0",
+		"": ""
+	},
+	{
+		"code": "Suchy",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Sullens",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Suscevaz",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Syens",
+		"value": " 75.6",
+		"": ""
+	},
+	{
+		"code": "Tannay",
+		"value": " 61.0",
+		"": ""
+	},
+	{
+		"code": "Tartegnin",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Tevenon",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Tolochenaz",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "Trelex",
+		"value": " 57.0",
+		"": ""
+	},
+	{
+		"code": "Trey",
+		"value": " 80.0",
+		"": ""
+	},
+	{
+		"code": "Treycovagnes",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Treytorrens (Payerne)",
+		"value": " 84.0",
+		"": ""
+	},
+	{
+		"code": "Ursins",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Valbroye",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Valeyres-sous-Montagny",
+		"value": " 72.0",
+		"": ""
+	},
+	{
+		"code": "Valeyres-sous-Rances",
+		"value": " 65.0",
+		"": ""
+	},
+	{
+		"code": "Valeyres-sous-Ursins",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Vallorbe",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Vaulion",
+		"value": " 81.0",
+		"": ""
+	},
+	{
+		"code": "Vaux-sur-Morges",
+		"value": " 56.0",
+		"": ""
+	},
+	{
+		"code": "Vevey",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Veytaux",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Vich",
+		"value": " 68.0",
+		"": ""
+	},
+	{
+		"code": "Villars-Epeney",
+		"value": " 60.0",
+		"": ""
+	},
+	{
+		"code": "Villars-le-Comte",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Villars-le-Terroir",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Villars-Sainte-Croix",
+		"value": " 59.0",
+		"": ""
+	},
+	{
+		"code": "Villars-sous-Yens",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Villarzel",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Villeneuve (Vaud)",
+		"value": " 69.0",
+		"": ""
+	},
+	{
+		"code": "Vinzel",
+		"value": " 67.0",
+		"": ""
+	},
+	{
+		"code": "Vuarrens",
+		"value": " 75.0",
+		"": ""
+	},
+	{
+		"code": "Vucherens",
+		"value": " 79.0",
+		"": ""
+	},
+	{
+		"code": "Vufflens-la-Ville",
+		"value": " 67.0",
+		"": ""
+	},
+	{
+		"code": "Vufflens-le-Chateau",
+		"value": " 55.0",
+		"": ""
+	},
+	{
+		"code": "Vugelles-La Mothe",
+		"value": " 70.0",
+		"": ""
+	},
+	{
+		"code": "Vuiteboeuf",
+		"value": " 77.0",
+		"": ""
+	},
+	{
+		"code": "Vulliens",
+		"value": " 78.0",
+		"": ""
+	},
+	{
+		"code": "Vullierens",
+		"value": " 76.0",
+		"": ""
+	},
+	{
+		"code": "Vully-les-Lacs",
+		"value": " 67.0",
+		"": ""
+	},
+	{
+		"code": "Yens",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Yverdon-les-Bains",
+		"value": " 76.5",
+		"": ""
+	},
+	{
+		"code": "Yvonand",
+		"value": " 73.0",
+		"": ""
+	},
+	{
+		"code": "Yvorne",
+		"value": " 71.5",
+		"": ""
+	},
+	{
+		"code": ""
+	}
+]
