@@ -1,0 +1,89 @@
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" charset="UTF-8"></script>
+<script src="https://code.highcharts.com/maps/highmaps.js" charset="UTF-8"></script>
+<script src="https://code.highcharts.com/maps/modules/data.js" charset="UTF-8"></script>
+
+<script src="commune.js" charset="UTF-8"></script>
+<!-- 
+
+<script src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+ -->
+
+</head>
+
+
+<body>
+	
+<div id="container" style="height: 900px; min-width: 310px; max-width: 1200px; margin: 0 auto"></div>
+
+
+</body>
+
+<script type="text/javascript">
+
+$.getJSON('data_tax.json', function (data) {
+
+
+
+    // Instanciate the map
+    Highcharts.mapChart('container', {
+
+        chart: {
+            borderWidth: 1
+        },
+
+        title: {
+            text: 'Tax per commune'
+        },
+
+        legend: {
+            layout: 'horizontal',
+            borderWidth: 0,
+            backgroundColor: 'rgba(255,255,255,0.85)',
+            floating: true,
+            verticalAlign: 'top',
+            y: 25
+        },
+
+        mapNavigation: {
+            enabled: true
+        },
+
+        colorAxis: {
+            min: 46,
+            max:84,
+             stops: [
+            [0, '#00b200'],
+            [0.5, '#fffbbc'],
+            [0.9, '#c4463a']
+        ],
+
+        },
+
+        series: [{
+            animation: {
+                duration: 1
+            },
+            data: data,
+            mapData: Highcharts.maps['countries/us/us-all'],
+            joinBy: ['NOM_MIN', 'code'],
+            dataLabels: {
+                enabled: true,
+                color: '#FFFFFF',
+                format: '{point.code}'
+            },
+            name: 'Tax on income',
+            tooltip: {
+                pointFormat: '{point.code}: {point.value}'
+            }
+        }]
+    });
+});
+
+</script>
+
+</html>
