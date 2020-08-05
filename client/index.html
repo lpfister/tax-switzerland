@@ -1,0 +1,109 @@
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+<script src="https://code.highcharts.com/maps/highmaps.js"></script>
+<script src="https://code.highcharts.com/maps/modules/data.js"></script>
+<script src="https://code.highcharts.com/maps/modules/data.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+
+
+<script src="./commune.js" charset="UTF-8"></script>
+
+
+</head>
+
+
+<body>
+	
+<div id="container" style="height: 900px; min-width: 310px; max-width: 1200px; margin: 0 auto"></div>
+
+
+</body>
+
+<script type="text/javascript">
+
+
+var cantonName = "VD"
+var query = `query getCommuneFromVaud( $cantonName: String!){
+    communesByCanton(id:$cantonName){
+        incomeTax
+        estateTax
+        id
+    }
+}`;
+
+fetch('http://localhost:4000/graphql', {
+  method: 'POST',
+  headers: {
+    'Content-Type': 'application/json',
+    'Accept': 'application/json',
+  },
+  body: JSON.stringify({
+    query,
+    variables: { cantonName },
+  })
+})
+  .then(r => r.json())
+  .then(data => buildMap(data.data.communesByCanton));
+
+var buildMap = function (data) {
+    console.log('data returned:', data)
+    
+    // Instanciate the map
+    Highcharts.mapChart('container', {
+
+        chart: {
+            borderWidth: 1
+        },
+
+        title: {
+            text: 'Revenue tax in % for communes'
+        },
+
+        legend: {
+            layout: 'horizontal',
+            borderWidth: 0,
+            backgroundColor: 'rgba(255,255,255,0.85)',
+            floating: true,
+            verticalAlign: 'top',
+            y: 25
+        },
+
+        mapNavigation: {
+            enabled: true
+        },
+
+        colorAxis: {
+            min:1,
+            max:100,
+            minColor: '#efecf3',
+            maxColor: '#990041',
+            lineColor: 'green',
+            lineWidth: 10
+        },
+
+        series: [{
+            animation: {
+                duration: 1
+            },
+            data: data,
+            mapData: Highcharts.maps['countries/ch/vd'],
+            joinBy: ['NOM_MIN', 'id'],
+            dataLabels: {
+                enabled: true,
+                color: '#FFFFFF',
+                format: '{point.id}'
+            },
+            name: 'Tax on income',
+            tooltip: {
+                pointFormat: '{point.id}: Income: {point.incomeTax}: Fortune:{point.estateTax}'
+            }
+        }]
+    });
+};
+
+</script>
+
+</html>
