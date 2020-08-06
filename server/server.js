@@ -13,8 +13,8 @@ var schema = buildSchema(`
   },
   type Commune {
     id: String!,
-    yearAdopted: String!,
-    validity:	String!,
+    yearAdopted: String,
+    validity:	String,
     incomeTax: String!,	
     estateTax: String!,	
     transferSalesTax: String,	
@@ -30,19 +30,27 @@ var schema = buildSchema(`
 
 
 
-const dataVD = require('./data/vd/data_vd_2020')
+const dataVD = require('./data/vd/data_vd_2020');
+const dataFR = require('./data/fr/data_fr_2020');
+
+// Store all commune in one array in order to be able to search later one
+const dataCommune = [...dataVD, ...dataFR];
 
 var getCommuneByName = function(args) {
   var communeName = args.id;
-  return dataVD.filter(commune => commune.id == communeName)[0];
+  return dataCommune.filter(commune => commune.id == communeName)[0];
 }
 
 var getCommunesByCanton = function(args) {
   var canton = args.id;
   if (canton == "VD") {
-    return dataVD
+    return dataVD;
+  }
+  else if(canton == "FR"){
+    return dataFR;
   }
   else {
+    console.error("Data for canton " + canton + "are not available");
     return []
   }
 }
@@ -56,7 +64,10 @@ var root = {
 
 
 var app = express();
+
+// Cors is enabled in order to be able to develop/test on localhost on 2 different port
 app.use(cors());
+
 app.use('/graphql', graphqlHTTP({
   schema: schema,
   rootValue: root,

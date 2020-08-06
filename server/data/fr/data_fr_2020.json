@@ -1,0 +1,1066 @@
+[
+    {
+      "id": "Châtillon",
+      "incomeTax": 65,
+      "directDescendingTax": 60,
+      "companyTax": 87,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Cheiry",
+      "incomeTax": 90,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Cugy",
+      "incomeTax": 85,
+      "directDescendingTax": 66.7,
+      "companyTax": 85,
+      "transferSaleTax": 1,
+      "estateTax": 1.8
+    },
+    {
+      "id": "Fétigny",
+      "incomeTax": 88,
+      "directDescendingTax": 70,
+      "companyTax": 85.6,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Gletterens",
+      "incomeTax": 58.9,
+      "directDescendingTax": 70,
+      "companyTax": 58.9,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Lully",
+      "incomeTax": 80,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Ménières",
+      "incomeTax": 83,
+      "directDescendingTax": 70,
+      "companyTax": 83,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Montagny",
+      "incomeTax": 83.6,
+      "directDescendingTax": 66.7,
+      "companyTax": 79.2,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Nuvilly",
+      "incomeTax": 87.9,
+      "directDescendingTax": 70,
+      "companyTax": 87.9,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Prévondavaux",
+      "incomeTax": 90.3,
+      "directDescendingTax": 70,
+      "companyTax": 90.3,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Saint-Aubin",
+      "incomeTax": 80,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 0.7,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Sévaz",
+      "incomeTax": 30,
+      "directDescendingTax": 70,
+      "companyTax": 30,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Surpierre",
+      "incomeTax": 88.7,
+      "directDescendingTax": 60,
+      "companyTax": 88.7,
+      "transferSaleTax": 1,
+      "estateTax": 1.25
+    },
+    {
+      "id": "Vallon",
+      "incomeTax": 78,
+      "directDescendingTax": 70,
+      "companyTax": 78,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Les Montets",
+      "incomeTax": 77.4,
+      "directDescendingTax": 70,
+      "companyTax": 77.4,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Delley-Portalban",
+      "incomeTax": 49.9,
+      "directDescendingTax": 60,
+      "companyTax": 49.9,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Belmont-Broye",
+      "incomeTax": 72,
+      "directDescendingTax": 70,
+      "companyTax": 72,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Estavayer",
+      "incomeTax": 84,
+      "directDescendingTax": 70,
+      "companyTax": 84,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Cheyres-Châbles",
+      "incomeTax": 70,
+      "directDescendingTax": 66.7,
+      "companyTax": 70,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Auboranges",
+      "incomeTax": 92,
+      "directDescendingTax": 70,
+      "companyTax": 50,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Billens-Hennens",
+      "incomeTax": 95,
+      "directDescendingTax": 70,
+      "companyTax": 100,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Chapelle (Glâne)",
+      "incomeTax": 85,
+      "directDescendingTax": 70,
+      "companyTax": 85,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Le Châtelard",
+      "incomeTax": 97,
+      "directDescendingTax": 70,
+      "companyTax": 55,
+      "transferSaleTax": 1,
+      "estateTax": 2.8
+    },
+    {
+      "id": "Châtonnaye",
+      "incomeTax": 85,
+      "directDescendingTax": 66.7,
+      "companyTax": 85,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Ecublens",
+      "incomeTax": 88,
+      "directDescendingTax": 70,
+      "companyTax": 88,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Grangettes",
+      "incomeTax": 77,
+      "directDescendingTax": 70,
+      "companyTax": 77,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Massonnens",
+      "incomeTax": 91.2,
+      "directDescendingTax": 70,
+      "companyTax": 86.9,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Mézières",
+      "incomeTax": 93,
+      "directDescendingTax": 70,
+      "companyTax": 83,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Montet (Glâne)",
+      "incomeTax": 80,
+      "directDescendingTax": 66.7,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Romont",
+      "incomeTax": 90,
+      "directDescendingTax": 70,
+      "companyTax": 90,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Rue",
+      "incomeTax": 79,
+      "directDescendingTax": 66.7,
+      "companyTax": 48,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Siviriez",
+      "incomeTax": 88,
+      "directDescendingTax": 70,
+      "companyTax": 88,
+      "transferSaleTax": 1,
+      "estateTax": 1.2
+    },
+    {
+      "id": "Ursy",
+      "incomeTax": 77,
+      "directDescendingTax": 70,
+      "companyTax": 77,
+      "transferSaleTax": 1,
+      "estateTax": 1.75
+    },
+    {
+      "id": "Vuisternens-devant-Romont",
+      "incomeTax": 88.4,
+      "directDescendingTax": 70,
+      "companyTax": 88.4,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Villorsonnens",
+      "incomeTax": 76,
+      "directDescendingTax": 70,
+      "companyTax": 76,
+      "transferSaleTax": 1,
+      "estateTax": 1.8
+    },
+    {
+      "id": "Torny",
+      "incomeTax": 82,
+      "directDescendingTax": 70,
+      "companyTax": 82,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Villaz",
+      "incomeTax": 87,
+      "directDescendingTax": 70,
+      "companyTax": 87,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Haut-Intyamon",
+      "incomeTax": 97,
+      "directDescendingTax": 70,
+      "companyTax": 97,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Pont-en-Ogoz",
+      "incomeTax": 75,
+      "directDescendingTax": 70,
+      "companyTax": 75,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Botterens",
+      "incomeTax": 85,
+      "directDescendingTax": 70,
+      "companyTax": 85,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Broc",
+      "incomeTax": 89,
+      "directDescendingTax": 70,
+      "companyTax": 89,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Bulle",
+      "incomeTax": 74.3,
+      "directDescendingTax": 70,
+      "companyTax": 74.3,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Châtel-sur-Montsalvens",
+      "incomeTax": 79.5,
+      "directDescendingTax": 60,
+      "companyTax": 79.5,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Corbières",
+      "incomeTax": 73.5,
+      "directDescendingTax": 66.7,
+      "companyTax": 77.2,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Crésuz",
+      "incomeTax": 67,
+      "directDescendingTax": 50,
+      "companyTax": 67,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Echarlens",
+      "incomeTax": 70,
+      "directDescendingTax": 70,
+      "companyTax": 70,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Grandvillard",
+      "incomeTax": 80,
+      "directDescendingTax": 66.7,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Gruyères",
+      "incomeTax": 80,
+      "directDescendingTax": 66.7,
+      "companyTax": 75.6,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Hauteville",
+      "incomeTax": 77.7,
+      "directDescendingTax": 70,
+      "companyTax": 77.7,
+      "transferSaleTax": 1,
+      "estateTax": 1.6
+    },
+    {
+      "id": "Jaun",
+      "incomeTax": 100,
+      "directDescendingTax": 70,
+      "companyTax": 100,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Marsens",
+      "incomeTax": 75,
+      "directDescendingTax": 70,
+      "companyTax": 75,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Morlon",
+      "incomeTax": 84.3,
+      "directDescendingTax": 66.7,
+      "companyTax": 88.1,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Le Pâquier",
+      "incomeTax": 83.5,
+      "directDescendingTax": 66.7,
+      "companyTax": 79.7,
+      "transferSaleTax": 1,
+      "estateTax": 1.9
+    },
+    {
+      "id": "Pont-la-Ville",
+      "incomeTax": 75,
+      "directDescendingTax": 66.7,
+      "companyTax": 75,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Riaz",
+      "incomeTax": 73,
+      "directDescendingTax": 70,
+      "companyTax": 73,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "La Roche",
+      "incomeTax": 85,
+      "directDescendingTax": 70,
+      "companyTax": 100,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Sâles",
+      "incomeTax": 80,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 1.3
+    },
+    {
+      "id": "Sorens",
+      "incomeTax": 73,
+      "directDescendingTax": 66.7,
+      "companyTax": 78,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Vaulruz",
+      "incomeTax": 79,
+      "directDescendingTax": 70,
+      "companyTax": 79,
+      "transferSaleTax": 0.6,
+      "estateTax": 2.3
+    },
+    {
+      "id": "Vuadens",
+      "incomeTax": 87.8,
+      "directDescendingTax": 66.7,
+      "companyTax": 87.8,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Bas-Intyamon",
+      "incomeTax": 83.2,
+      "directDescendingTax": 70,
+      "companyTax": 83.2,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Val-de-Charmey",
+      "incomeTax": 89.8,
+      "directDescendingTax": 70,
+      "companyTax": 89.8,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Arconciel",
+      "incomeTax": 85,
+      "directDescendingTax": 66.7,
+      "companyTax": 85,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Autigny",
+      "incomeTax": 90,
+      "directDescendingTax": 70,
+      "companyTax": 90,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Avry",
+      "incomeTax": 72.1,
+      "directDescendingTax": 50,
+      "companyTax": 72.1,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Belfaux",
+      "incomeTax": 81,
+      "directDescendingTax": 70,
+      "companyTax": 81,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Chénens",
+      "incomeTax": 81.7,
+      "directDescendingTax": 50,
+      "companyTax": 77.1,
+      "transferSaleTax": 0.7,
+      "estateTax": 1.3
+    },
+    {
+      "id": "Corminboeuf",
+      "incomeTax": 75,
+      "directDescendingTax": 66.7,
+      "companyTax": 75,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Cottens",
+      "incomeTax": 85,
+      "directDescendingTax": 70,
+      "companyTax": 93,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Ependes",
+      "incomeTax": 88,
+      "directDescendingTax": 66.7,
+      "companyTax": 88,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Ferpicloz",
+      "incomeTax": 50,
+      "directDescendingTax": 65,
+      "companyTax": 50,
+      "transferSaleTax": 0.65,
+      "estateTax": 2
+    },
+    {
+      "id": "Fribourg",
+      "incomeTax": 80,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 2.85
+    },
+    {
+      "id": "Givisiez",
+      "incomeTax": 70,
+      "directDescendingTax": 70,
+      "companyTax": 70,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Granges-Paccot",
+      "incomeTax": 67.8,
+      "directDescendingTax": 66.7,
+      "companyTax": 67.8,
+      "transferSaleTax": 1,
+      "estateTax": 2.25
+    },
+    {
+      "id": "Grolley",
+      "incomeTax": 82,
+      "directDescendingTax": 66.7,
+      "companyTax": 82,
+      "transferSaleTax": 1,
+      "estateTax": 1.75
+    },
+    {
+      "id": "Marly",
+      "incomeTax": 80,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Matran",
+      "incomeTax": 60,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 2.7
+    },
+    {
+      "id": "Neyruz",
+      "incomeTax": 81,
+      "directDescendingTax": 70,
+      "companyTax": 81,
+      "transferSaleTax": 1,
+      "estateTax": 1.2
+    },
+    {
+      "id": "Pierrafortscha",
+      "incomeTax": 78,
+      "directDescendingTax": 0,
+      "companyTax": 75,
+      "transferSaleTax": 0.5,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Ponthaux",
+      "incomeTax": 89,
+      "directDescendingTax": 66.7,
+      "companyTax": 89,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Le Mouret",
+      "incomeTax": 80,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Senèdes",
+      "incomeTax": 93,
+      "directDescendingTax": 0,
+      "companyTax": 93,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Treyvaux",
+      "incomeTax": 88,
+      "directDescendingTax": 70,
+      "companyTax": 88,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Villars-sur-Glâne",
+      "incomeTax": 63.9,
+      "directDescendingTax": 66.7,
+      "companyTax": 69,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Villarsel-sur-Marly",
+      "incomeTax": 90,
+      "directDescendingTax": 70,
+      "companyTax": 100,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Hauterive",
+      "incomeTax": 72,
+      "directDescendingTax": 70,
+      "companyTax": 74,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "La Brillaz",
+      "incomeTax": 89,
+      "directDescendingTax": 70,
+      "companyTax": 89,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "La Sonnaz",
+      "incomeTax": 79,
+      "directDescendingTax": 70,
+      "companyTax": 100,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Gibloux",
+      "incomeTax": 85,
+      "directDescendingTax": 70,
+      "companyTax": 85,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Prez",
+      "incomeTax": 80,
+      "directDescendingTax": 70,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Courgevaux",
+      "incomeTax": 76,
+      "directDescendingTax": 70,
+      "companyTax": 76,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Courtepin",
+      "incomeTax": 85,
+      "directDescendingTax": 66.7,
+      "companyTax": 85,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Cressier",
+      "incomeTax": 76,
+      "directDescendingTax": 66.7,
+      "companyTax": 76,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Fräschels",
+      "incomeTax": 75,
+      "directDescendingTax": 70,
+      "companyTax": 75,
+      "transferSaleTax": 0.8,
+      "estateTax": 1
+    },
+    {
+      "id": "Galmiz",
+      "incomeTax": 72,
+      "directDescendingTax": 70,
+      "companyTax": 72,
+      "transferSaleTax": 0.8,
+      "estateTax": 2
+    },
+    {
+      "id": "Gempenach",
+      "incomeTax": 67,
+      "directDescendingTax": 70,
+      "companyTax": 67,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Greng",
+      "incomeTax": 32,
+      "directDescendingTax": 70,
+      "companyTax": 32,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Gurmels",
+      "incomeTax": 80,
+      "directDescendingTax": 66.7,
+      "companyTax": 80,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Kerzers",
+      "incomeTax": 84,
+      "directDescendingTax": 65,
+      "companyTax": 84,
+      "transferSaleTax": 1,
+      "estateTax": 1.3
+    },
+    {
+      "id": "Kleinbösingen",
+      "incomeTax": 60,
+      "directDescendingTax": 50,
+      "companyTax": 60,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Meyriez / Merlach",
+      "incomeTax": 52.3,
+      "directDescendingTax": 66.7,
+      "companyTax": 52.3,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Misery-Courtion",
+      "incomeTax": 88,
+      "directDescendingTax": 70,
+      "companyTax": 92.6,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Muntelier",
+      "incomeTax": 58,
+      "directDescendingTax": 66.7,
+      "companyTax": 58,
+      "transferSaleTax": 1,
+      "estateTax": 0
+    },
+    {
+      "id": "Murten",
+      "incomeTax": 62,
+      "directDescendingTax": 66.7,
+      "companyTax": 62,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Ried bei Kerzers",
+      "incomeTax": 72.5,
+      "directDescendingTax": 53.4,
+      "companyTax": 72.5,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Ulmiz",
+      "incomeTax": 79.5,
+      "directDescendingTax": 66.7,
+      "companyTax": 79.5,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Mont-Vully",
+      "incomeTax": 60,
+      "directDescendingTax": 70,
+      "companyTax": 60,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Alterswil",
+      "incomeTax": 79,
+      "directDescendingTax": 66.7,
+      "companyTax": 79,
+      "transferSaleTax": 1,
+      "estateTax": 1.25
+    },
+    {
+      "id": "Brünisried",
+      "incomeTax": 92,
+      "directDescendingTax": 66.7,
+      "companyTax": 92,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Düdingen",
+      "incomeTax": 82,
+      "directDescendingTax": 66.7,
+      "companyTax": 82,
+      "transferSaleTax": 1,
+      "estateTax": 1.8
+    },
+    {
+      "id": "Giffers",
+      "incomeTax": 85.9,
+      "directDescendingTax": 66.7,
+      "companyTax": 85.9,
+      "transferSaleTax": 0.6,
+      "estateTax": 2.5
+    },
+    {
+      "id": "Bösingen",
+      "incomeTax": 76,
+      "directDescendingTax": 70,
+      "companyTax": 76,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Heitenried",
+      "incomeTax": 81,
+      "directDescendingTax": 70,
+      "companyTax": 81,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Plaffeien",
+      "incomeTax": 95,
+      "directDescendingTax": 70,
+      "companyTax": 90,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Plasselb",
+      "incomeTax": 95,
+      "directDescendingTax": 70,
+      "companyTax": 95,
+      "transferSaleTax": 1,
+      "estateTax": 3
+    },
+    {
+      "id": "Rechthalten",
+      "incomeTax": 90,
+      "directDescendingTax": 66.7,
+      "companyTax": 90,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "St. Antoni",
+      "incomeTax": 87,
+      "directDescendingTax": 66.7,
+      "companyTax": 87,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "St. Silvester",
+      "incomeTax": 95,
+      "directDescendingTax": 70,
+      "companyTax": 95,
+      "transferSaleTax": 1,
+      "estateTax": 2.5
+    },
+    {
+      "id": "St. Ursen",
+      "incomeTax": 80.6,
+      "directDescendingTax": 66.7,
+      "companyTax": 80.6,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Schmitten",
+      "incomeTax": 77,
+      "directDescendingTax": 70,
+      "companyTax": 72,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Tafers",
+      "incomeTax": 75,
+      "directDescendingTax": 66.7,
+      "companyTax": 75,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Tentlingen",
+      "incomeTax": 76.1,
+      "directDescendingTax": 66.7,
+      "companyTax": 76.1,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Ueberstorf",
+      "incomeTax": 89,
+      "directDescendingTax": 66.7,
+      "companyTax": 89,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Wünnewil-Flamatt",
+      "incomeTax": 82,
+      "directDescendingTax": 66.7,
+      "companyTax": 85.7,
+      "transferSaleTax": 1,
+      "estateTax": 1.8
+    },
+    {
+      "id": "Attalens",
+      "incomeTax": 78.5,
+      "directDescendingTax": 66.7,
+      "companyTax": 78.5,
+      "transferSaleTax": 1,
+      "estateTax": 1.8
+    },
+    {
+      "id": "Bossonnens",
+      "incomeTax": 93,
+      "directDescendingTax": 70,
+      "companyTax": 93,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Châtel-Saint-Denis",
+      "incomeTax": 83.6,
+      "directDescendingTax": 66.7,
+      "companyTax": 83.6,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Granges",
+      "incomeTax": 89,
+      "directDescendingTax": 70,
+      "companyTax": 81,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "Remaufens",
+      "incomeTax": 88,
+      "directDescendingTax": 66.7,
+      "companyTax": 88,
+      "transferSaleTax": 1,
+      "estateTax": 1
+    },
+    {
+      "id": "Saint-Martin",
+      "incomeTax": 87,
+      "directDescendingTax": 70,
+      "companyTax": 90,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Semsales",
+      "incomeTax": 83,
+      "directDescendingTax": 66.7,
+      "companyTax": 83,
+      "transferSaleTax": 1,
+      "estateTax": 1.5
+    },
+    {
+      "id": "Le Flon",
+      "incomeTax": 93.8,
+      "directDescendingTax": 66.7,
+      "companyTax": 93.8,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    },
+    {
+      "id": "La Verrerie",
+      "incomeTax": 86,
+      "directDescendingTax": 60,
+      "companyTax": 86,
+      "transferSaleTax": 1,
+      "estateTax": 2
+    }
+  ]
