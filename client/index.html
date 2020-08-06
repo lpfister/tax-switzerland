@@ -34,9 +34,9 @@ var query = `query getCommuneFromVaud( $cantonName: String!){
     }
 }`;
 
-const url = "https://glacial-shore-86931.herokuapp.com/graphql"
+const backendURL = "https://glacial-shore-86931.herokuapp.com/graphql"
 
-fetch('url', {
+fetch(backendURL, {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
